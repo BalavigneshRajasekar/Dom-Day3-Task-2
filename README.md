@@ -23,5 +23,5 @@ Created a simple Pagination task with dom manipulation When user click on the nu
 
 ## Demo
 
-https://personaldetails.vercel.app/
+https://pagination-alpha-swart.vercel.app/
 
